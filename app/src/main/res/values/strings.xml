@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Chat App</string>
+
+    <string name="auth_email">Email</string>
+    <string name="auth_password">Password</string>
+    <string name="auth_or"> or </string>
+    <string name="auth_status_checking">Checking the email and password &#8230;</string>
+    <string name="auth_register_success">Register success.</string>
+    <string name="error_login_failed">The email or password are incorrect.</string>
+    <string name="error_email_incorrect">The email is invalid.</string>
+    <string name="error_password_incorrect">The password is invalid. The password has been at least 6 characters.</string>
+    <string name="error_email_exist">The email exists.</string>
+    <string name="action_login">Login</string>
+    <string name="action_register">Register</string>
+    <string name="auth_guest">Are you guest?</string>
+
+    <string name="get_name_name">Name</string>
+    <string name="error_invalid_name">The name you entered is invalid.</string>
+
+    <string name="home_friend_list">Friend</string>
+
+    <string name="action_send">Send</string>
+    <string name="home_type_hint">Type message here</string>
+</resources>
